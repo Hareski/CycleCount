@@ -1,6 +1,7 @@
 # Algorithm for Counting Cycles in C++
 
 This is a general purpose algorithm for counting simple cycles of up to a fixed length included on an adjacency matrix passing through all or a specified vertex.
+Working only on an undirected graph but will be updated soon.
 
 Based on this article: Giscard, P., Kriege, N. & Wilson, R.C. A General Purpose Algorithm for Counting Simple Cycles and Simple Paths of Any Length. Algorithmica 81, 2716–2737 (2019). https://doi.org/10.1007/s00453-019-00552-1
 
